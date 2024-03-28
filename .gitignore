@@ -1,2 +1,4 @@
 node_modules
+todo-graphql/node_modules
+todo-local-storage/node_modules
 .DS_Store

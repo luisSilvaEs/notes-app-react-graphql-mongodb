@@ -1,0 +1,18 @@
+.notes-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.single-note {
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-container {
+    margin-top: 20px;
+}
+
+.form-container button {
+    margin-left: 10px;
+}
